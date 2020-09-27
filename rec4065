@@ -1,0 +1,13 @@
+Nguyen-Joseph-assn02:
+total 0
+drwxr-xr-x. 3 myid 128 Sep 17 16:24 dist
+-rw-r--r--. 1 myid   0 Sep 17 16:25 rec4065
+
+Nguyen-Joseph-assn02/dist:
+total 140
+-rw-r--r--. 1 myid   2654 Sep 17 16:08 Account.h
+-rw-r--r--. 1 myid 112674 Sep 14 22:00 assn02.pdf
+-rwxr-xr-x. 1 myid  14944 Sep 17 16:24 Driver
+-rw-r--r--. 1 myid   1602 Sep 17 16:21 Driver.cpp
+-rw-r--r--. 1 myid    116 Sep 14 21:59 makefile
+/home/myid/jhn21502/cs1730/Nguyen-Joseph-assn02:/home/myid/csci-1730
